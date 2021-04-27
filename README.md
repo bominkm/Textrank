@@ -1,3 +1,3 @@
 # Textrank
 
-![textrank](textrank.png){: width="100" height="100"}
+!<img src = "https://github.com/bominkm/Textrank/blob/main/textrank.png?raw=true" width="400px">
